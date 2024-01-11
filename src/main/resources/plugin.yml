@@ -1,0 +1,6 @@
+name: $name
+main: com.josemarcellio.exampleplugin.ExamplePlugin
+version: $version
+author: JoseMarcellio
+description: $description
+api-version: "$apiVersion"
